@@ -1,29 +1,52 @@
-# Hi, I'm Daniel Muñoz! 👋
-**Application Development Team Leader | Systems Engineering Student | Junior Full Stack Developer**
+# Daniel Muñoz | Full Stack Developer 🚀
 
-Professional from Guatemala 🇬🇹 with a strong background in leading cross-functional teams at **TELUS International**. I'm currently pivoting my career towards Full Stack development, specializing in the JavaScript ecosystem (**React, Node.js, Next.js**).
+**Software Engineering Student | GCP Certified | Specialized in JavaScript Ecosystem**
 
----
-
-### 🚀 About Me
-- 🔭 **Currently:** Leading app development teams and studying Systems Engineering.
-- 🎓 **Education:** Systems Engineering (UMG) & Harvard CS50x.
-- ☁️ **Cloud Focus:** Google Cloud Certified (Cloud Digital Leader & Generative AI Leader).
-- 🗣️ **Languages:** Bilingual (English C1 / Spanish Native).
-
-### 🛠️ Technical Toolbox
-- **Frontend:** React.js, Next.js (Learning), Tailwind CSS, Bootstrap 5.
-- **Backend:** Node.js, Python, Firebase, MySQL, MariaDB.
-- **Cloud & DevOps:** GCP, AWS foundations, Git/GitHub, Agile/Scrum.
-- **Mobile:** React Native (In Progress).
-
-### 🏆 Featured Projects
-- **[RedZone Fitness](https://dannygt0.github.io/coderhouse/)**: A high-performance fitness landing page built with Bootstrap 5 and custom CSS Grid.
-- **[E-commerce Template](https://github.com/Dannygt0/nextjs-ecommerce)**: A modern storefront architecture using Next.js and Tailwind.
+Full Stack Developer focusing on building scalable web applications with **React, Next.js, and Node.js**. My background as an Application Development Team Leader at **TELUS International** provides me with a deep understanding of the Software Development Life Cycle (SDLC), Agile methodologies, and high-standard delivery.
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](TU_LINK_DE_LINKEDIN_AQUI) | [Portfolio](https://dannygt0.github.io/coderhouse/)
+### 🛠️ Technical Stack
 
-*"Passionate about building scalable applications and writing clean, efficient code."*
+- **Frontend:** React.js, Next.js, TypeScript (Learning), Tailwind CSS, Bootstrap 5.
+- **Backend & DB:** Node.js, Python, Firebase, MySQL, MariaDB, PostgreSQL.
+- **Cloud & DevOps:** Google Cloud Platform (Certified), AWS foundations, Git/GitHub, Docker (Learning).
+- **Core CS:** Algorithms, Data Structures, and Memory Management (Harvard CS50x).
+
+---
+
+### 🔬 Featured Projects
+
+#### [Next.js E-commerce Architecture](https://github.com/Dannygt0/nextjs-ecommerce)
+* Modern storefront built with **Next.js** and **Tailwind CSS**.
+* Focused on performance optimization, component reusability, and responsive design.
+
+#### [Harvard CS50x Solutions](https://github.com/Dannygt0/cs50IntroductiontoWebProgramming)
+* Deep dive into Computer Science fundamentals.
+* Implementations of image processing filters in **C**, memory management, and financial simulators using **Flask/Python**.
+
+#### [RedZone Fitness App](https://dannygt0.github.io/coderhouse/)
+* High-performance landing page utilizing **Bootstrap 5** and custom **CSS Grid/Flexbox**.
+* Optimized for cross-device compatibility and UI/UX best practices.
+
+---
+
+### 📜 Certifications & Education
+
+- **Systems Engineering & Computer Science** - Universidad Mariano Gálvez (Present)
+- **CS50x: Introduction to Computer Science** - Harvard University
+- **Cloud Digital Leader** - Google Cloud (ID: 2025-2028)
+- **Generative AI Leader** - Google Cloud (ID: 2025-2028)
+
+---
+
+### 💼 Professional Engineering Context
+In my current role at **TELUS International**, I bridge the gap between technical requirements and execution, overseeing:
+- **Code Quality:** Ensuring adherence to clean code principles and SDLC standards.
+- **Technical Mentorship:** Supporting developers and QA engineers in Agile workflows.
+- **Scalability:** Collaborating with stakeholders to maintain high-delivery standards.
+
+---
+
+### 📫 Let's build something together:
+[LinkedIn](TU_LINK_DE_LINKEDIN_AQUI) | [Email](mailto:tu-email@ejemplo.com) | [Portfolio](https://dannygt0.github.io/coderhouse/)
