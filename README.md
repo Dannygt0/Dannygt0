@@ -49,4 +49,4 @@ In my current role at **TELUS International**, I bridge the gap between technica
 ---
 
 ### 📫 Let's build something together:
-[LinkedIn](TU_LINK_DE_LINKEDIN_AQUI) | [Email](mailto:tu-email@ejemplo.com) | [Portfolio](https://dannygt0.github.io/coderhouse/)
+[LinkedIn](www.linkedin.com/in/daniel-alejandro-munoz-toledo-a1b719193) | [Email](mailto:dmuoz1997@gmail.com) | [Portfolio](https://github.com/Dannygt0)
