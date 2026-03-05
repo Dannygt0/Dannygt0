@@ -51,13 +51,8 @@ In my current role at **TELUS International**, I bridge the gap between technica
 - **Technical Mentorship:** Supporting developers and QA engineers in Agile workflows.
 - **Scalability:** Collaborating with stakeholders to maintain high-delivery standards.
 
----
-
-### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannygt0&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannygt0&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Let's build something together:
-[LinkedIn](https://www.linkedin.com/in/daniel-alejandro-munoz-toledo-a1b719193) | [Email](mailto:dmuoz1997@gmail.com) | [Live Project](https://eye-on-the-world.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/daniel-alejandro-munoz-toledo-a1b719193) | [Email](mailto:dmuoz1997@gmail.com) | 
