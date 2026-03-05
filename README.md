@@ -17,17 +17,22 @@ Full Stack Developer focusing on building scalable web applications with **React
 
 ### 🔬 Featured Projects
 
-#### [Next.js E-commerce Architecture](https://github.com/Dannygt0/nextjs-ecommerce)
+#### [🌍 Eye on the World — Full Stack Explorer](https://eye-on-the-world.vercel.app/)
+* **Live Demo:** [https://eye-on-the-world.vercel.app/](https://eye-on-the-world.vercel.app/)
+* **The Project:** A high-performance photography explorer powered by the Unsplash API.
+* **Architecture:** Decoupled Full Stack application using a **Backend Proxy Server** (Node.js/Express) to securely manage API credentials and prevent client-side exposure.
+* **Deployment:** Automated CI/CD pipelines via **Vercel** (Frontend) and **Render** (Backend).
+
+#### [🛒 Next.js E-commerce Architecture](https://github.com/Dannygt0/nextjs-ecommerce)
 * Modern storefront built with **Next.js** and **Tailwind CSS**.
 * Focused on performance optimization, component reusability, and responsive design.
 
-#### [Harvard CS50x Solutions](https://github.com/Dannygt0/cs50IntroductiontoWebProgramming)
-* Deep dive into Computer Science fundamentals.
-* Implementations of image processing filters in **C**, memory management, and financial simulators using **Flask/Python**.
-
-#### [RedZone Fitness App](https://dannygt0.github.io/coderhouse/)
+#### [🔥 RedZone Fitness App](https://dannygt0.github.io/coderhouse/)
 * High-performance landing page utilizing **Bootstrap 5** and custom **CSS Grid/Flexbox**.
 * Optimized for cross-device compatibility and UI/UX best practices.
+
+#### [🎓 Harvard CS50x Solutions](https://github.com/Dannygt0/cs50IntroductiontoWebProgramming)
+* Implementations of core Computer Science concepts including image processing filters in **C**, memory management, and financial simulators using **Flask/Python**.
 
 ---
 
@@ -48,5 +53,11 @@ In my current role at **TELUS International**, I bridge the gap between technica
 
 ---
 
+### 📊 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannygt0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannygt0&layout=compact&theme=tokyonight)
+
+---
+
 ### 📫 Let's build something together:
-[LinkedIn](www.linkedin.com/in/daniel-alejandro-munoz-toledo-a1b719193) | [Email](mailto:dmuoz1997@gmail.com) | [Portfolio](https://github.com/Dannygt0)
+[LinkedIn](https://www.linkedin.com/in/daniel-alejandro-munoz-toledo-a1b719193) | [Email](mailto:dmuoz1997@gmail.com) | [Live Project](https://eye-on-the-world.vercel.app/)
