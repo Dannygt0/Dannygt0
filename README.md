@@ -29,55 +29,29 @@ I am a **Software Engineering student** and **Application Development Team Leade
 
 ### 🔬 Featured Frontend & Engineering Projects
 
-<br/>
+#### 🛒 [Next.js E-commerce Architecture](https://github.com/Dannygt0/nextjs-ecommerce)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=100&section=header&text=E-commerce%20App&fontSize=35&fontAlignY=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=100&section=header&text=E-commerce%20App&fontSize=30&fontAlignY=50&fontColor=ffffff" alt="E-commerce Architecture" />
-      <br/>
-      <strong><a href="https://github.com/Dannygt0/nextjs-ecommerce">🛒 Next.js E-commerce Architecture</a></strong>
-      <br/>
-      * **Focus:** High-performance storefront leveraging **SSR** and **ISR**.
-      <br/>
-      * **Stack:** `Next.js 14`, `TypeScript`, `Tailwind CSS`.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=CC6699&height=100&section=header&text=IronForge%20Fitness&fontSize=30&fontAlignY=50&fontColor=ffffff" alt="IronForge Fitness" />
-      <br/>
-      <strong><a href="https://dannygt0.github.io/ironforge-fitness/">🏋️‍♂️ Modular SASS Design</a></strong>
-      <br/>
-      * **Focus:** Implementation of the **7-1 Pattern in SASS**.
-      <br/>
-      * **Stack:** `HTML5`, `SASS (SCSS)`, `Bootstrap 5.3`.
-    </td>
-  </tr>
-</table>
+* **Engineering:** High-performance storefront leveraging **SSR** and **ISR** for optimized SEO.
+* **Stack:** `Next.js 14`, `TypeScript`, `Tailwind CSS`.
 
-<br/>
+#### 🏋️‍♂️ [IronForge Fitness — Modular SASS Design](https://dannygt0.github.io/ironforge-fitness/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=CC6699&height=100&section=header&text=SASS%20Engineering&fontSize=35&fontAlignY=50&fontColor=ffffff&animation=glitch" width="100%" />
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=61DAFB&height=100&section=header&text=Full%20Stack%20Explorer&fontSize=30&fontAlignY=50&fontColor=000000" alt="Eye on the World" />
-      <br/>
-      <strong><a href="https://eye-on-the-world.vercel.app/">🌍 Eye on the World Explorer</a></strong>
-      <br/>
-      * **Logic:** Decoupled architecture using a **Node.js Proxy Layer**.
-      <br/>
-      * **Stack:** `React.js`, `Node.js`, `Express`.
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=A8B9CC&height=100&section=header&text=Core%20CS%20Harvard&fontSize=30&fontAlignY=50&fontColor=000000" alt="Harvard CS50x" />
-      <br/>
-      <strong><a href="https://github.com/Dannygt0/cs50IntroductiontoWebProgramming">🎓 Harvard CS50x Solutions</a></strong>
-      <br/>
-      * **Implementation:** Low-level memory management and data structures.
-      <br/>
-      * **Languages:** `C`, `Python`, `SQL`, `Flask`.
-    </td>
-  </tr>
-</table>
+* **Architecture:** Implementation of the **7-1 Pattern in SASS** for automated UI scaling.
+* **Stack:** `HTML5`, `SASS (SCSS)`, `Bootstrap 5.3`.
+
+#### 🌍 [Eye on the World Explorer](https://eye-on-the-world.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=100&section=header&text=Full%20Stack%20Logic&fontSize=35&fontAlignY=50&fontColor=000000&animation=fadeIn" width="100%" />
+
+* **Logic:** Decoupled architecture using a **Node.js Proxy Layer** for secure API handling.
+* **Stack:** `React.js`, `Node.js`, `Express`.
+
+#### 🎓 [Harvard CS50x Solutions](https://github.com/Dannygt0/cs50IntroductiontoWebProgramming)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A8B9CC&height=100&section=header&text=Computer%20Science%20Core&fontSize=35&fontAlignY=50&fontColor=000000&animation=scaleIn" width="100%" />
+
+* **Implementation:** Low-level memory management and algorithm complexity analysis.
+* **Languages:** `C`, `Python`, `SQL`, `Flask`.
 
 ---
 
@@ -86,10 +60,6 @@ I am a **Software Engineering student** and **Application Development Team Leade
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dannygt0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannygt0&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannygt0&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8" width="60%" />
 </p>
 
 ---
