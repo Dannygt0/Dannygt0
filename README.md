@@ -11,7 +11,7 @@
 ---
 
 ### 👤 Profile
-I am a **Software Engineering student** and **Application Development Team Leader** transitioning into a **Frontend Developer** role. My passion lies in building immersive, high-performance web applications using the **JavaScript/TypeScript ecosystem**. I apply rigorous engineering principles to ensure scalable, maintainable, and pixel-perfect user experiences.
+I am a **Software Engineering student** and **Application Development Team Leader** transitioning into a **Frontend Developer** role. My passion lies in building immersive, high-performance web applications using the **JavaScript/TypeScript ecosystem**. 
 
 ---
 
@@ -25,13 +25,6 @@ I am a **Software Engineering student** and **Application Development Team Leade
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
 ---
 
 ### 🔬 Featured Frontend & Engineering Projects
@@ -41,20 +34,20 @@ I am a **Software Engineering student** and **Application Development Team Leade
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=slice&color=007ACC&height=100&section=header&text=E-commerce%20App&fontSize=30&fontAlignY=50" alt="E-commerce Architecture" />
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=100&section=header&text=E-commerce%20App&fontSize=30&fontAlignY=50&fontColor=ffffff" alt="E-commerce Architecture" />
       <br/>
       <strong><a href="https://github.com/Dannygt0/nextjs-ecommerce">🛒 Next.js E-commerce Architecture</a></strong>
       <br/>
-      * **Focus:** High-performance storefront leveraging **SSR** and **ISR** for optimized Core Web Vitals.
+      * **Focus:** High-performance storefront leveraging **SSR** and **ISR**.
       <br/>
       * **Stack:** `Next.js 14`, `TypeScript`, `Tailwind CSS`.
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=slice&color=CC6699&height=100&section=header&text=IronForge%20Fitness&fontSize=30&fontAlignY=50" alt="IronForge Fitness" />
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=CC6699&height=100&section=header&text=IronForge%20Fitness&fontSize=30&fontAlignY=50&fontColor=ffffff" alt="IronForge Fitness" />
       <br/>
       <strong><a href="https://dannygt0.github.io/ironforge-fitness/">🏋️‍♂️ Modular SASS Design</a></strong>
       <br/>
-      * **Focus:** Implementation of the **7-1 Pattern in SASS** for modular, automated UI scaling.
+      * **Focus:** Implementation of the **7-1 Pattern in SASS**.
       <br/>
       * **Stack:** `HTML5`, `SASS (SCSS)`, `Bootstrap 5.3`.
     </td>
@@ -66,20 +59,20 @@ I am a **Software Engineering student** and **Application Development Team Leade
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=slice&color=61DAFB&height=100&section=header&text=Full%20Stack%20Explorer&fontSize=30&fontAlignY=50" alt="Eye on the World" />
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=61DAFB&height=100&section=header&text=Full%20Stack%20Explorer&fontSize=30&fontAlignY=50&fontColor=000000" alt="Eye on the World" />
       <br/>
       <strong><a href="https://eye-on-the-world.vercel.app/">🌍 Eye on the World Explorer</a></strong>
       <br/>
-      * **Logic:** Decoupled architecture using a **Node.js Proxy Layer** for secure API communication.
+      * **Logic:** Decoupled architecture using a **Node.js Proxy Layer**.
       <br/>
-      * **Stack:** `React.js`, `Node.js`, `Express`, `Vercel`.
+      * **Stack:** `React.js`, `Node.js`, `Express`.
     </td>
     <td width="50%" valign="top">
-      <img src="https://capsule-render.vercel.app/api?type=slice&color=A8B9CC&height=100&section=header&text=Core%20CS%20Harvard&fontSize=30&fontAlignY=50" alt="Harvard CS50x" />
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=A8B9CC&height=100&section=header&text=Core%20CS%20Harvard&fontSize=30&fontAlignY=50&fontColor=000000" alt="Harvard CS50x" />
       <br/>
       <strong><a href="https://github.com/Dannygt0/cs50IntroductiontoWebProgramming">🎓 Harvard CS50x Solutions</a></strong>
       <br/>
-      * **Implementation:** Low-level memory management, data structures, and algorithm complexity.
+      * **Implementation:** Low-level memory management and data structures.
       <br/>
       * **Languages:** `C`, `Python`, `SQL`, `Flask`.
     </td>
@@ -91,12 +84,12 @@ I am a **Software Engineering student** and **Application Development Team Leade
 ### 📊 Git Analytics & Contribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dannygt0&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannygt0&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideNums=ffffff&sideLabels=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dannygt0&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dannygt0&theme=tokyonight&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannygt0&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=ffffff" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannygt0&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8" width="60%" />
 </p>
 
 ---
