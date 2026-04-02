@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=200&section=header&text=Daniel%20Muñoz&fontSize=80&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00b4d8&height=250&section=header&text=Daniel%20Muñoz&fontSize=80&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Software_Engineer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_/_Cloud-00b4d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Certification-GCP_Certified-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Software_Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_/_Cloud-00b4d8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certification-GCP_Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
 
-### 👤 About Me
-I am a **Software Engineering student** focused on high-performance web applications and cloud native architectures. My core expertise lies in the **JavaScript/TypeScript ecosystem**, where I apply rigorous engineering principles to build scalable, maintainable, and type-safe systems.
+### 👤 Professional Profile
+Systems Engineering student and **Application Development Team Leader** transitioning into a **Full Stack Developer** role. Expert in the **JavaScript/TypeScript ecosystem**, specialized in building scalable web applications and cloud-native architectures with a focus on clean code and Agile methodologies.
 
 ---
 
@@ -19,30 +19,31 @@ I am a **Software Engineering student** focused on high-performance web applicat
 
 | Domain | Stack & Tooling |
 | :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask) |
-| **Infrastructure** | ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask) |
+| **Cloud & Ops** | ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) |
+| **CS Core** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-FF6600?style=flat-square&logo=scrumalliance&logoColor=white) |
 
 ---
 
-### 🔬 Engineering Case Studies
+### 🔬 Featured Engineering Projects
 
 #### [🛒 Next.js E-commerce Architecture](https://github.com/Dannygt0/nextjs-ecommerce)
-* **Engineering Focus:** Implemented **Server-Side Rendering (SSR)** and **Incremental Static Regeneration (ISR)** to achieve near-perfect Lighthouse scores.
-* **Key Features:** Dynamic routing, optimized image delivery (Next/Image), and type-safe component architecture.
+* **Engineering Focus:** High-performance storefront leveraging **Server-Side Rendering (SSR)** and **Incremental Static Regeneration (ISR)** to optimize Core Web Vitals.
+* **Architecture:** Component-driven design with a focus on reusability and type safety.
 * **Stack:** `Next.js 14`, `TypeScript`, `Tailwind CSS`.
 
 #### [🌍 Eye on the World — Full Stack Explorer](https://eye-on-the-world.vercel.app/)
-* **Logic:** Developed a decoupled architecture with a **Node.js Proxy Layer** to handle secure API communication and data sanitization.
-* **Stack:** `React`, `Node.js`, `Express`, `REST APIs`.
+* **Logic:** Decoupled architecture using a **Node.js/Express Proxy Layer** to manage secure API credentials and data sanitization.
+* **Stack:** `React.js`, `Node.js`, `Express`, `Vercel`.
 
-#### [🏋️‍♂️ IronForge Fitness — SASS Architecture](https://dannygt0.github.io/ironforge-fitness/)
-* **Architecture:** Applied the **7-1 Pattern in SASS** for modular CSS. Automated UI scaling using custom mixins and advanced pre-processor logic.
+#### [🏋️‍♂️ IronForge Fitness — Modular SASS Design](https://dannygt0.github.io/ironforge-fitness/)
+* **Architecture:** Implementation of the **7-1 Pattern in SASS**. Automated UI generation using advanced mixins and `@each` loops for a DRY codebase.
 * **Stack:** `HTML5`, `SASS (SCSS)`, `Bootstrap 5.3`.
 
 #### [🎓 Harvard CS50x Core CS](https://github.com/Dannygt0/cs50IntroductiontoWebProgramming)
-* **Concepts:** Deep dive into memory management, data structures (Linked Lists, Hash Tables), and algorithm complexity (Big O).
-* **Languages:** `C`, `Python`, `SQL`.
+* **Implementation:** Low-level memory management, data structures, and algorithm complexity analysis.
+* **Languages:** `C`, `Python`, `SQL`, `Flask`.
 
 ---
 
@@ -59,12 +60,17 @@ I am a **Software Engineering student** focused on high-performance web applicat
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/daniel-alejandro-munoz-toledo-a1b719193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Muñoz" height="30" width="40" /></a>
-<a href="mailto:dmuoz1997@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="dmuoz1997@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/daniel-alejandro-munoz-toledo-a1b719193">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dmuoz1997@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dannygt0&color=00b4d8&style=flat-square&label=ENGINEER+VISITS" alt="Profile Views" />
 </p>
