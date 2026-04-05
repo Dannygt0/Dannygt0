@@ -29,7 +29,7 @@ I am a **Software Engineering student** and **Application Development Team Leade
 
 ### 🔬 Featured Frontend & Engineering Projects
 
-#### 🛒 [Next.js E-commerce Architecture](https://github.com/Dannygt0/nextjs-ecommerce)
+#### 🛒 [Next.js E-commerce Architecture]([https://github.com/Dannygt0/nextjs-ecommerce](https://ecommercegt.vercel.app/))
 <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=100&section=header&text=E-commerce%20App&fontSize=35&fontAlignY=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
 * **Engineering:** High-performance storefront leveraging **SSR** and **ISR** for optimized SEO.
