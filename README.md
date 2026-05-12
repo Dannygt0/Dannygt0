@@ -33,7 +33,7 @@ I am a **Software Engineering student** and **Application Development Team Leade
 <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=100&section=header&text=E-commerce%20App&fontSize=35&fontAlignY=50&fontColor=ffffff&animation=twinkling" width="100%" />
 
 * **Engineering:** High-performance storefront leveraging **SSR** and **ISR** for optimized SEO.
-* **Stack:** `Next.js 14`, `TypeScript`, `Tailwind CSS`.
+* **Stack:** `Next.js 14`, `TypeScript`, `Tailwind CSS`, `Contentful`.
 
 #### 🏋️‍♂️ [IronForge Fitness — Modular SASS Design](https://dannygt0.github.io/ironforge-fitness/)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC6699&height=100&section=header&text=SASS%20Engineering&fontSize=35&fontAlignY=50&fontColor=ffffff&animation=glitch" width="100%" />
