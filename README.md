@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=280&section=header&text=Daniel%20Muñoz&fontSize=75&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Frontend_Developer-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Team_Leader-00b4d8?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Certification-GCP_Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+
 
 ---
 
@@ -21,13 +17,21 @@ I am a **Software Engineering student** and **Application Development Team Leade
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ---
 
 ### 🔬 Featured Frontend & Engineering Projects
+
+#### 🔧 [Tecno Fix — Full Stack Inventory & Repair Tracker](https://tecnofixgt.vercel.app/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3ECF8E&height=100&section=header&text=Full%20Stack%20Inventory&fontSize=35&fontAlignY=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+* **Engineering:** Real-time hardware catalog and repair tracking system with **Supabase** backend. 
+* **Logic:** Custom WhatsApp API integration for lead generation and interactive geolocation mapping.
+* **Stack:** `Next.js 15`, `TypeScript`, `Supabase SSR`, `Tailwind CSS`.
 
 #### 🛒 [Next.js E-commerce Architecture](https://ecommercegt.vercel.app/)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=100&section=header&text=E-commerce%20App&fontSize=35&fontAlignY=50&fontColor=ffffff&animation=twinkling" width="100%" />
